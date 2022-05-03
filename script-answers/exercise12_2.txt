@@ -1,0 +1,13 @@
+Script started on 2022-05-03 09:18:10+00:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="81" LINES="38"]
+[1m[7m%[27m[1m[0m                                                                                 [0m[27m[24m[J[1;35masteroid2k[0m[1;35m@[0m[1;35mskeld[0m  [1;36mfsopen-part12[0m  [2;37m [0m[2;37mmain[0m [2;32m([0m[2;32m![0m[2;32m?[0m[2;32m)[0m 
+[32m$[0m [K[?1h=[?2004h[1m[31md[0m[39m[1m[31md[0m[39m[90mocker start -i ecstatic_lichterman[39m[34D[0m[33md[33mo[39m[1m[31md[1m[31mo[1m[31mc[0m[39m[1m[31mc[1m[31mk[0m[39m[1m[31mk[1m[31me[0m[39m[0m[32md[0m[32mo[0m[32mc[0m[32mk[0m[32me[32mr[39m[39m [39mr[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [27D[90mun hello-world[39m[14D[39mu[39mn[39m [39m-[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [10D[90mit ubuntu bash[39m[14D[39mi[39mt[39m [39mu[39mb[39mu[39mn[39mt[39mu[39m [39mb[39ma[39ms[39mh[?1l>[?2004l
+[?2004h]0;root@60a3527b9d69: /root@60a3527b9d69:/# [K]0;root@60a3527b9d69: /root@60a3527b9d69:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@60a3527b9d69: /root@60a3527b9d69:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@60a3527b9d69: /root@60a3527b9d69:/# [Ktouch /usr/src/app/index.jsh[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1Pp[1P[1P[1P[1P[1P[1P[1P[1P[1P[1Ps[Kmkdir /usr/src/app[1P[1P[1P[1P[1P[1@l[1@s
+[?2004lindex.js
+[?2004h]0;root@60a3527b9d69: /root@60a3527b9d69:/# eit  xit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                 [0m[27m[24m[J[1;35masteroid2k[0m[1;35m@[0m[1;35mskeld[0m  [1;36mfsopen-part12[0m  [2;37m [0m[2;37mmain[0m [2;32m([0m[2;32m![0m[2;32m?[0m[2;32m)[0m 
+[32m$[0m [K[?1h=[?2004h[1m[31me[0m[39m[1m[31me[0m[39m[90mxit[39m[0m[32me[32mx[39m[1m[31me[1m[31mx[1m[31mi[0m[39m[0m[32me[0m[32mx[0m[32mi[32mt[39m[?1l>[?2004l
+
+Script done on 2022-05-03 09:20:56+00:00 [COMMAND_EXIT_CODE="0"]
