@@ -16,7 +16,7 @@ router.get("/", async (req, res) => {
 });
 
 router.get("/statistics", async (req, res) => {
-  const stats = (await redis.getAsync("added_todos")) || 0;
+  const stats = (await redis.getAsync("added_todos")) ?? 0;
   res.json({
     added_todos: Number(stats),
   });
